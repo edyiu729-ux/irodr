@@ -76,7 +76,7 @@ See also [resources/userScript](./resources/userScript) directory.
 - Currently, We need CORS proxy in `package.json`
     - In other word, require proxy or proxy server
 
-## Development
+##
 
 ### Usage
 
@@ -146,10 +146,7 @@ For bugs and feature requests, [please create an issue](https://github.com/azu/i
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## Author
 
-- [github/azu](https://github.com/azu)
-- [twitter/azu_re](https://twitter.com/azu_re)
 
 ## License
 
